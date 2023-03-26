@@ -1,0 +1,22 @@
+{
+    "Caps Lock": "Harfleri devamlı büyük yada devamlı küçük yazmak için kullanılır",
+    "Shift": "Ctrl tuşlarının üzerinde bulunur üzerinde yukarı yön oku bulunur. Temel görevi işe ",
+    "Tab": "Metinlerde girinti yapmak, kod editörlerinde kod parçalarını hizalamak için kullanılır.",
+    "Alt": "Farklı bir işlevi olan klavye tuşlarının alternatif işlevlerini kullanmak için kullanılır. Örneğin, Alt+F4 ile programları kapatılabilir.",
+    "Ctrl": "Klavye kısayollarında sıkça kullanılır.Kopyalama, yapıştırma ,Toplu seçme işlemini yapılmasını sağlayan tuştur ve shift tuşunun altında bulunur",
+    "Windows tuşu": "Windows işletim sisteminde kullanılır. Başlat menüsünü açmak, arama yapmak, programlar arasında geçiş yapmak gibi işlemler için kullanılabilir.",
+    "Backspace": "Yazı yazarken önceki karakterleri silmek için kullanılır.",
+    "Delete": "Metinleri, dosya ve klasörleri silmek için kullanılır.",
+    "Enter": "Metin yazarken satır atlamak, form doldururken onay vermek için kullanılır.",
+    "Esc": "İşlemi iptal etmek, çıkış yapmak veya bir uygulamadan çıkmak için kullanılır",
+    "Page Up/Page Down": "Sayfa yukarı ya da aşağı kaydırmak için kullanılır.",
+    "Home/End": "Metnin başına ya da sonuna gitmek için kullanılır.",
+    "Print Screen": "Ekran görüntüsü almak için kullanılır.",
+    "Scroll Lock": " Sayfalar arasında kaydırma yaparken kullanılır.",
+    "f2": "Bilgisayarda klasör işimlerini değistirme işine yaraya kısayol tuşusur",
+    "Ctrl+Shift+N": "klasör oluşturmak amacıyla kullanılan tuşu kullanılır",
+    "Shift+Delete": "Geri dönüşüm kutusuna ugramadan silinmesine olanak tanıyan tuştur (kalıcı siler)",
+    "2**3": "En küçük dosya boyutunu (bit) hesaplamamıza sağlayan formül (üst alabilmek için '**' şeklinde kullanın örneğin 2**6) ",
+    "Numlock": "Numara tuşlarının etkin veya etkisiz hale getirilmesini sağlar. Etkin olduğunda, numara tuşları sayılar yerine farklı işlevleri yerine getirir (örneğin, sağ-sol ok tuşları sayfa kaydırmak için kullanılır)"
+
+}
